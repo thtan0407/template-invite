@@ -114,18 +114,18 @@ body {
     overflow-y: auto;
 }
 
-/*.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar {*/
-/*    width: 5px;*/
-/*}*/
+.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar {
+    width: 5px;
+}
 
-/*.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-track {*/
-/*    background: #fff;*/
-/*}*/
+.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-track {
+    background: #fff;
+}
 
-/*.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-thumb {*/
-/*    background: #acacac;*/
-/*}*/
+.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-thumb {
+    background: #acacac;
+}
 
-/*.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-thumb:hover {*/
-/*    background: #7b7b7b;*/
-/*}*/
+.modal-theme .modal-content .modal-body.scroll-body::-webkit-scrollbar-thumb:hover {
+    background: #7b7b7b;
+}
